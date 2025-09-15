@@ -1,2 +1,2 @@
-# disha
+# Disha
 Beginner
